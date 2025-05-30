@@ -2,4 +2,4 @@ pandas
 matplotlib
 seaborn
 openpyxl
-jupyter
+scikit-learn
